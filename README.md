@@ -105,13 +105,13 @@
   <summary align="center">GitHub Stats</summary>
   <p align="center">
     <a href="https://github.com/johnbjackson">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnbrandonjackson&theme=transparent" alt="Profile Details">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnbjackson&theme=transparent" alt="Profile Details">
     </a>
     <a href="https://github.com/johnbjackson">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnbrandonjackson&hide_border=true&card_width=338&theme=transparent" alt="Streak Stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnbjackson&hide_border=true&card_width=338&theme=transparent" alt="Streak Stats">
     </a>
     <a href="https://github.com/johnbjackson">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnbrandonjackson&theme=transparent" alt="Stats">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnbjackson&theme=transparent" alt="Stats">
     </a>
   </p>
   <p align="center">
