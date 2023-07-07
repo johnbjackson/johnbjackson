@@ -122,7 +122,7 @@
 </details>
 
 <p align="center">
-  <a href="https://github.com/johnbrandonjackson">
+  <a href="https://github.com/johnbjackson">
     <img src="https://komarev.com/ghpvc/?username=johnbrandonjackson&color=blue&style=flat" alt="Profile Views">
   </a>
 </p>
