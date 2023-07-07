@@ -67,34 +67,34 @@
 
 <h3 align="center">Operating Systems:</h3>
 <p align="center">
-  <a href="https://github.com/johnbrandonjackson">
+  <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" alt="Windows">
   </a>
-  <a href="https://github.com/johnbrandonjackson">
+  <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux" alt="Linux">
   </a>
-     <a href="https://github.com/johnbrandonjackson">
+     <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple" alt="Apple">
   </a>
-  <a href="https://github.com/johnbrandonjackson">
+  <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android" alt="Android">
   </a>
-  <a href="https://github.com/johnbrandonjackson">
+  <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
   </a>
-  <a href="https://github.com/johnbrandonjackson">
+  <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu" alt="Ubuntu">
   </a>
-    <a href="https://github.com/johnbrandonjackson">
+    <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=Fedora" alt="Fedora">
   </a>
-  <a href="https://github.com/johnbrandonjackson">
+  <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian" alt="Debian">
   </a>
-  <a href="https://github.com/johnbrandonjackson">
+  <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/SUSE-black?style=for-the-badge&logo=SUSE" alt="SUSE">
   </a>
-  <a href="https://github.com/johnbrandonjackson">
+  <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=Kali Linux" alt="Kali">
   </a>
 
@@ -104,18 +104,18 @@
 <details>
   <summary align="center">GitHub Stats</summary>
   <p align="center">
-    <a href="https://github.com/johnbrandonjackson">
+    <a href="https://github.com/johnbjackson">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnbrandonjackson&theme=transparent" alt="Profile Details">
     </a>
-    <a href="https://github.com/johnbrandonjackson">
+    <a href="https://github.com/johnbjackson">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnbrandonjackson&hide_border=true&card_width=338&theme=transparent" alt="Streak Stats">
     </a>
-    <a href="https://github.com/johnbrandonjackson">
+    <a href="https://github.com/johnbjackson">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnbrandonjackson&theme=transparent" alt="Stats">
     </a>
   </p>
   <p align="center">
-    <a href="https://github.com/johnbrandonjackson">
+    <a href="https://github.com/johnbjackson">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnJackson&theme=react&line_height=40&hide=css" alt="Top Languages">
     </a>
   </p>
