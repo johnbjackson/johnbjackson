@@ -2,8 +2,10 @@
 
 <p align="center">
   <b>  I collect data I find online!  <br>
+<p align="center">
     <b>  <p><a href="https://archive.org/details/@johnbrandonjackson">Internet Archive</a></p>  <br>
-    Want to share information?</p>
+<p align="center">  
+     <b> Want to share information? <br> </p>
     
   <i>
 <p align="center">
