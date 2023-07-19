@@ -1,7 +1,7 @@
 <h1 align="center">John B Jackson </h1>
 
 <p align="center">
-  <b> I collect data I find online! <br>
+  <b>  I collect data I find online!  <br>
     Want to share information?</p>
   <i>
 <p align="center">
