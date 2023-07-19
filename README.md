@@ -3,7 +3,7 @@
 <p align="center">
   <b>  I collect data I find online!  <br>
 <p align="center">
-    <b>  <p><a href="https://archive.org/details/@johnbrandonjackson">Internet Archive</a></p>  <br>
+    <b>  <a href="https://archive.org/details/@johnbrandonjackson">Internet Archive</a>  <br>
 <p align="center">  
      <b> Want to share information? <br> </p>
     
