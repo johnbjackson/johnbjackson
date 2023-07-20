@@ -106,23 +106,12 @@
 <p align="center">
 
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/Twitter?style=for-the-badge&logo=Twitter" alt="Twitter">
-  </a>
-    
-  </a>
-
-    <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook" alt="facebook">
-  </a>
-
-    <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram" alt="instagram">
-  </a>
-
-  <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="linkedin">
+    <center><p><a href="https://www.linkedin.com/in/john-jackson-9a9409284/recent-activity/all/?fbclid=IwAR08FkpeAUpHBnPSiwg37nloyQHVNXAa1m5vSmAt1UXBTaGE_SBdmTJ080U">Linkedin</a></p></center>
   </a>
-  
+   <center><p><a href="https://twitter.com/JohnnyBJackson">Twitter</a></p></center>
+  <center><p><a href="https://www.facebook.com/100093384192095">Facebook</a></p></center>
+  <center><p><a href="https://www.instagram.com/johnbrandonjackson2023/">Instagram</a></p></center>
 </p>
 
 <details>
