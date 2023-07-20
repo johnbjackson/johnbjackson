@@ -102,16 +102,6 @@
     <img src="https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=Kali Linux" alt="Kali">
   </a>
 
-  <h3 align="center">Social Media:</h3>
-<p align="center">
-
-  <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="linkedin">
-    <center><p>https://www.linkedin.com/in/john-jackson-9a9409284/recent-activity/all/</p></center>
-  </a>
-   
-</p>
-
 <details>
   <summary align="center">GitHub Stats</summary>
   <p align="center">
