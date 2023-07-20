@@ -112,15 +112,15 @@
   </a>
 
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook" alt="facebook">
   </a>
 
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram" alt="Instagram">
+    <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram" alt="instagram">
   </a>
 
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="linkedin">
   </a>
   
 </p>
