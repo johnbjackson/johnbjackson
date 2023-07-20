@@ -107,11 +107,9 @@
 
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="linkedin">
-    <center><p><a href="https://www.linkedin.com/in/john-jackson-9a9409284/recent-activity/all/?fbclid=IwAR08FkpeAUpHBnPSiwg37nloyQHVNXAa1m5vSmAt1UXBTaGE_SBdmTJ080U">Linkedin</a></p></center>
+    <center><p>https://www.linkedin.com/in/john-jackson-9a9409284/recent-activity/all/</p></center>
   </a>
-   <center><p><a href="https://twitter.com/JohnnyBJackson">Twitter</a></p></center>
-  <center><p><a href="https://www.facebook.com/100093384192095">Facebook</a></p></center>
-  <center><p><a href="https://www.instagram.com/johnbrandonjackson2023/">Instagram</a></p></center>
+   
 </p>
 
 <details>
