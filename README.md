@@ -102,7 +102,27 @@
     <img src="https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=Kali Linux" alt="Kali">
   </a>
 
+  <h3 align="center">Social Media:</h3>
+<p align="center">
 
+  <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/Twitter?style=for-the-badge&logo=Twitter" alt="Twitter">
+  </a>
+    
+  </a>
+
+    <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook" alt="Facebook">
+  </a>
+
+    <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram" alt="Instagram">
+  </a>
+
+  <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
+  </a>
+  
 </p>
 
 <details>
