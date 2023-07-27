@@ -1,7 +1,7 @@
 <h1 align="center">John B Jackson </h1>
 
 <p align="center">
-  <b>  I collect data I find online!  <br>
+  <b>  I collect data  <br>
 <p align="center">
     <b>  <a href="https://archive.org/details/@johnbrandonjackson">Internet Archive</a>  <br>
 <p align="center">  
