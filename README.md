@@ -49,22 +49,25 @@
     <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm" alt="PyCharm">
   </a>
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/partedmagic-black?style=for-the-badge&logo=parted-magic" alt="Parted Magic">
+    <img src="https://img.shields.io/badge/INTELLIJ-black?style=for-the-badge&logo=INTELLIJ" alt="INTELLIJ">
+  </a>
+  <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/PARTEDMAGIC-black?style=for-the-badge&logo=PARTEDMAGIC" alt="Parted Magic">
   </a>
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/dban-black?style=for-the-badge&logo=dban" alt="DBan">
+    <img src="https://img.shields.io/badge/DBAN-black?style=for-the-badge&logo=DBAN" alt="DBan">
   </a>
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/nwipe-black?style=for-the-badge&logo=nwipe" alt="Nwipe">
+    <img src="https://img.shields.io/badge/NWIPE-black?style=for-the-badge&logo=NWIPE" alt="Nwipe">
   </a>
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/gparted-black?style=for-the-badge&logo=gparted" alt="Gparted">
+    <img src="https://img.shields.io/badge/GPARTED-black?style=for-the-badge&logo=GPARTED" alt="Gparted">
   </a>
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/clonezilla-black?style=for-the-badge&logo=clonezilla" alt="Clonezilla">
+    <img src="https://img.shields.io/badge/CLONEZILLA-black?style=for-the-badge&logo=CLONEZILLA" alt="Clonezilla">
   </a>
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/rescuezilla-black?style=for-the-badge&logo=rescuezilla" alt="Rescuezilla">
+    <img src="https://img.shields.io/badge/RESCUEZILLA-black?style=for-the-badge&logo=RESCUEZILLA" alt="Rescuezilla">
   </a>
 </p>
 
