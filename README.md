@@ -114,7 +114,7 @@
     <img src="https://img.shields.io/badge/POPOS-black?style=for-the-badge&logo=POPOS" alt="POP OS">
   </a>
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/ARCH-black?style=for-the-badge&logo=ARCH" alt="ARCH LINUX">
+    <img src="https://img.shields.io/badge/ARCHLINUX-black?style=for-the-badge&logo=ARCHLINUX" alt="ARCH LINUX">
   </a>
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=Kali Linux" alt="Kali">
