@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/badge/SUSE-black?style=for-the-badge&logo=SUSE" alt="SUSE">
   </a>
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/elementaryos-black?style=for-the-badge&logo=elementaryos" alt="elementaryOS">
+    <img src="https://img.shields.io/badge/elementary-black?style=for-the-badge&logo=elementary" alt="elementaryOS">
   </a>
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/ZORIN-black?style=for-the-badge&logo=ZORIN" alt="ZORINOS">
