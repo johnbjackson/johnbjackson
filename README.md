@@ -94,6 +94,9 @@
   </a>
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian" alt="Debian">
+  <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/REDHAT-black?style=for-the-badge&logo=REDHAT" alt="REDHAT">
+  </a>
   </a>
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/SUSE-black?style=for-the-badge&logo=SUSE" alt="SUSE">
