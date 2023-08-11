@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/badge/MANJARO-black?style=for-the-badge&logo=MANJARO" alt="MANJARO">
   </a>
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/POP-black?style=for-the-badge&logo=POP" alt="POP OS">
+    <img src="https://img.shields.io/badge/POPOS-black?style=for-the-badge&logo=POPOS" alt="POP OS">
   </a>
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=Kali Linux" alt="Kali">
