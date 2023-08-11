@@ -49,9 +49,6 @@
     <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm" alt="PyCharm">
   </a>
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/INTELLIJ-black?style=for-the-badge&logo=INTELLIJ" alt="INTELLIJ">
-  </a>
-  <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/PARTEDMAGIC-black?style=for-the-badge&logo=PARTEDMAGIC" alt="Parted Magic">
   </a>
     <a href="https://github.com/johnbjackson">
