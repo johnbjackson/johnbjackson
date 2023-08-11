@@ -104,6 +104,12 @@
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/ZORIN-black?style=for-the-badge&logo=ZORIN" alt="ZORINOS">
   </a>
+    <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/MANJARO-black?style=for-the-badge&logo=MANJARO" alt="MANJARO">
+  </a>
+  <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/POP-black?style=for-the-badge&logo=POP" alt="POP OS">
+  </a>
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=Kali Linux" alt="Kali">
   </a>
