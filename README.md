@@ -112,8 +112,7 @@
     <a href="https://github.com/johnbjackson">
       <img src="https://img.shields.io/badge/LINUXMINT-black?style=for-the-badge&logo=LINUXMINT" alt="LINUX MINT">
   </a>
-  
-    <a href="https://github.com/johnbjackson">
+  <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/MANJARO-black?style=for-the-badge&logo=MANJARO" alt="MANJARO">
   </a>
   <a href="https://github.com/johnbjackson">
