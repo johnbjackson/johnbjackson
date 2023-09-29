@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
   </a>
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk" alt="Java">
+    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=openjdk" alt="JavaScript">
   </a>
     <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=" alt="C">
