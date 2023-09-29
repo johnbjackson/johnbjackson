@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
   </a>
     <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=" alt="C">
+    <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c" alt="C">
   </a>
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++" alt="C++">
