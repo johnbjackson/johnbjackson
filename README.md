@@ -24,9 +24,6 @@
     <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=c" alt="C">
   </a>
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++" alt="C++">
-  </a>
-  <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5" alt="HTML">
   </a>
   <a href="https://github.com/johnbjackson">
