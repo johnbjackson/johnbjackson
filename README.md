@@ -4,7 +4,7 @@
     
   <i>
 <p align="center">
-  ; <br>
+   <br>
   <br>
   <a href="https://johnbjackson.github.io/">
     <img src="http://img.shields.io/badge/Github-black?style=flat-square&logo=Github" alt="Github">
