@@ -145,5 +145,5 @@
     <img src="https://img.shields.io/badge/ALPINE LINUX-black?style=for-the-badge&logo=ALPINE LINUX" alt="ALPINE LINUX">
   </a>
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/Free BSD-black?style=for-the-badge&logo=Free BSD" alt="Free BSD">
+    <img src="https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD" alt="FreeBSD">
   </a>
