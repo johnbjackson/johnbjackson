@@ -40,19 +40,19 @@
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
+    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=c" alt="C">
   </a>
   <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
-  </a>
-    <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=c" alt="C">
+    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
   </a>
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5" alt="HTML">
   </a>
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3" alt="CSS">
+  </a>
+  <a href="https://github.com/johnbjackson">
+    <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
   </a>
 </p>
 
