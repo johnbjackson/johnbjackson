@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React">
   </a>
  <a href="https://github.com/johnbjackson">
-    <img src="https://img.shields.io/badge/node-js-black?style=for-the-badge&logo=node-js" alt="Nodejs">
+    <img src="https://img.shields.io/badge/node js-black?style=for-the-badge&logo=node js" alt="Nodejs">
   </a>
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
