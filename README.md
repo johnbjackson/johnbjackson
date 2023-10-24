@@ -54,7 +54,7 @@
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
   </a>
-</p>
+
  <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React">
   </a>
@@ -64,7 +64,7 @@
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
   </a>
-
+</p>
 <h3 align="center">Tools I use:</h3>
 <p align="center">
 
