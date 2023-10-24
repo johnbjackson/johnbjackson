@@ -39,6 +39,12 @@
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
+  #### 🔗 My Youtube channel
+[![YouTube](./assets/youtube.svg)](https://www.youtube.com/@AsmrProg)
+
+#### 💻 Technologies that I use
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) ![Python](./assets/python.svg)
+
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=c" alt="C">
   </a>
