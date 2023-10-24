@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<h3 align="center">Programming Languages:</h3>
+<h3 align="center">Programming:</h3>
 <p align="center">
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=c" alt="C">
