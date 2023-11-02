@@ -83,7 +83,7 @@
     <a href="https://gparted.org/download.php">
     <img src="https://img.shields.io/badge/GPARTED-black?style=for-the-badge&logo=Gparted" alt="Gparted">
   </a>
-    <a href="https://github.com/johnbjackson">
+    <a href="https://en.wikipedia.org/wiki/Clonezilla">
     <img src="https://img.shields.io/badge/CLONEZILLA-black?style=for-the-badge&logo=Clonezilla" alt="Clonezilla">
   </a>
     <a href="https://rescuezilla.com/">
