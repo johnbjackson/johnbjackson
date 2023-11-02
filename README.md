@@ -65,16 +65,16 @@
 <h3 align="center">Tools I use:</h3>
 <p align="center">
 
-  <a href="https://github.com/johnbjackson">
+  <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://www.jetbrains.com/pycharm/">
     <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm" alt="PyCharm">
   </a>
   <a href="https://partedmagic.com/">
-    <img src="https://img.shields.io/badge/PARTEDMAGIC-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic">
+    <img src="https://img.shields.io/badge/paertedmagic-black?style=for-the-badge&logo=PARTEDMAGIC" alt="Parted Magic">
   </a>
-    <a href="[https://github.com/johnbjackson](https://dban.org/)">
+    <a href="https://dban.org/">
     <img src="https://img.shields.io/badge/DBAN-black?style=for-the-badge&logo=Dban" alt="DBan">
   </a>
     <a href="https://en.wikipedia.org/wiki/Nwipe">
@@ -117,39 +117,39 @@
   </a>
   <a href="https://www.debian.org/">
     <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian" alt="Debian">
-  <a href="https://github.com/johnbjackson">
+  <a href="https://www.redhat.com/en">
     <img src="https://img.shields.io/badge/REDHAT-black?style=for-the-badge&logo=REDHAT" alt="REDHAT">
   </a>
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://www.opensuse.org/">
     <img src="https://img.shields.io/badge/SUSE-black?style=for-the-badge&logo=SUSE" alt="SUSE">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://elementary.io/">
     <img src="https://img.shields.io/badge/ELEMENTARY-black?style=for-the-badge&logo=ELEMENTARY" alt="elementary OS">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://zorin.com/os/">
     <img src="https://img.shields.io/badge/ZORIN-black?style=for-the-badge&logo=ZORIN" alt="ZORINOS">
   </a>
 
   </a>
-    <a href="https://github.com/johnbjackson">
+    <a href="https://linuxmint.com/">
       <img src="https://img.shields.io/badge/LINUXMINT-black?style=for-the-badge&logo=LINUXMINT" alt="LINUX MINT">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://manjaro.org/">
     <img src="https://img.shields.io/badge/MANJARO-black?style=for-the-badge&logo=MANJARO" alt="MANJARO">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://pop.system76.com/">
     <img src="https://img.shields.io/badge/POPOS-black?style=for-the-badge&logo=POPOS" alt="POP OS">
   </a>
-    <a href="https://github.com/johnbjackson">
+    <a href="https://en.wikipedia.org/wiki/Arch_Linux">
     <img src="https://img.shields.io/badge/ARCHLINUX-black?style=for-the-badge&logo=ARCHLINUX" alt="ARCH LINUX">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://www.kali.org/">
     <img src="https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=Kali Linux" alt="Kali">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://alpinelinux.org/about/">
     <img src="https://img.shields.io/badge/ALPINE LINUX-black?style=for-the-badge&logo=ALPINE LINUX" alt="ALPINE LINUX">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://www.freebsd.org/">
     <img src="https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD" alt="FreeBSD">
   </a>
