@@ -71,22 +71,22 @@
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm" alt="PyCharm">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://partedmagic.com/">
     <img src="https://img.shields.io/badge/PARTEDMAGIC-black?style=for-the-badge&logo=partedmagic" alt="Parted Magic">
   </a>
-    <a href="https://github.com/johnbjackson">
+    <a href="[https://github.com/johnbjackson](https://dban.org/)">
     <img src="https://img.shields.io/badge/DBAN-black?style=for-the-badge&logo=Dban" alt="DBan">
   </a>
-    <a href="https://github.com/johnbjackson">
+    <a href="https://en.wikipedia.org/wiki/Nwipe">
     <img src="https://img.shields.io/badge/NWIPE-black?style=for-the-badge&logo=nwipe" alt="Nwipe">
   </a>
-    <a href="https://github.com/johnbjackson">
+    <a href="https://gparted.org/download.php">
     <img src="https://img.shields.io/badge/GPARTED-black?style=for-the-badge&logo=Gparted" alt="Gparted">
   </a>
     <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/CLONEZILLA-black?style=for-the-badge&logo=Clonezilla" alt="Clonezilla">
   </a>
-    <a href="https://github.com/johnbjackson">
+    <a href="https://rescuezilla.com/">
     <img src="https://img.shields.io/badge/RESCUEZILLA-black?style=for-the-badge&logo=Rescuezilla" alt="Rescuezilla">
   </a>
 </p>
@@ -94,28 +94,28 @@
 
 <h3 align="center">Operating Systems:</h3>
 <p align="center">
-  <a href="https://github.com/johnbjackson">
+  <a href="https://www.microsoft.com/software-download/windows11">
     <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" alt="Windows">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://www.kernel.org/">
     <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux" alt="Linux">
   </a>
-     <a href="https://github.com/johnbjackson">
+     <a href="https://en.wikipedia.org/wiki/Apple_Inc.">
     <img src="https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple" alt="Apple">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
     <img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android" alt="Android">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://en.wikipedia.org/wiki/Raspberry_Pi">
     <img src="https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberry-pi" alt="Raspberry Pi">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://ubuntu.com/#download">
     <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu" alt="Ubuntu">
   </a>
-    <a href="https://github.com/johnbjackson">
+    <a href="https://www.fedoraproject.org/">
     <img src="https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=Fedora" alt="Fedora">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://www.debian.org/">
     <img src="https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=Debian" alt="Debian">
   <a href="https://github.com/johnbjackson">
     <img src="https://img.shields.io/badge/REDHAT-black?style=for-the-badge&logo=REDHAT" alt="REDHAT">
