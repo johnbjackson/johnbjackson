@@ -39,26 +39,26 @@
 
 <h3 align="center">Programming:</h3>
 <p align="center">
-  <a href="https://github.com/johnbjackson">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=c" alt="C">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://en.wikipedia.org/wiki/HTML">
     <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5" alt="HTML">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://en.wikipedia.org/wiki/CSS">
     <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3" alt="CSS">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
   </a>
 
- <a href="https://github.com/johnbjackson">
+ <a href="https://en.wikipedia.org/wiki/React_(software)">
     <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React">
   </a>
-  <a href="https://github.com/johnbjackson">
+  <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">
     <img src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
   </a>
 </p>
